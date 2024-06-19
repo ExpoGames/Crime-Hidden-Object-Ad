@@ -1,0 +1,304 @@
+Unity Version: 2021.3.15f1
+Platform: Android (Target API level: 33)  (IAP Version: 4.9.4) 
+Kwalee SDK Satisfied Version: 6.0.9
+Facebook Version: 14.1.0
+Firebase Version: 9.5.0
+AppsFlyer Version: 6.12.2
+
+Kwalee SDK Versions: 
+Kwalee SDK Manager not installed.
+
+Ad Mediator Versions:
+IronSource SDK: 7.3.0.1
+AdColony Adapter: 4.3.14
+AdColony SDK: 4.8.0
+AdMob Adapter: 4.3.36
+AdMob SDK: 21.5.0
+AppLovin Adapter: 4.3.37
+AppLovin SDK: 11.7.1
+Chartboost Adapter: 4.3.11
+Chartboost SDK: 9.2.0
+Facebook Adapter: 4.3.40
+Facebook SDK: 6.13.7
+Fyber Adapter: 4.3.24
+Fyber SDK: 8.2.2
+HyprMX Adapter: 4.3.4
+HyprMX SDK: 6.0.3
+InMobi Adapter: 4.3.17
+InMobi SDK: 10.1.2
+Mintegral Adapter: 4.3.15
+Mintegral SDK: newinterstitial:16.4.31
+Pangle Adapter: 4.3.17
+Pangle SDK: 5.0.0.8
+Smaato Adapter: 4.3.9
+Smaato SDK: 22.0.2
+TapJoy Adapter: 4.1.24
+TapJoy SDK: 12.11.1
+UnityAds Adapter: 4.3.28
+UnityAds SDK: 4.6.1
+Vungle Adapter: 4.3.20
+Vungle SDK: 6.12.1
+
+Embeded Core Config:
+ADS_ADMOB_APP_ID_ANDROID: ca-app-pub-3137017834535338~4622523481
+ADS_ADMOB_APP_ID_IOS: ca-app-pub-3137017834535338~5799873789
+ANDROID_PACKAGE_NAME: com.kwalee.drawit
+APPSFLYER_DEV_KEY: 8ZWgW3V66uToREJ6KDcxvB
+AUTH_GAME_EDITION_ID_ANDROID: android
+AUTH_GAME_EDITION_ID_IOS: ios
+AUTH_GAME_ID: drawit
+CLOUDFRONT_URL: d2kre6881rwtik.cloudfront.net
+COGNITO_IDENTITY_POOL_ID: us-west-2:23ab5a6b-f106-47bb-a233-649538faad8b
+COGNITO_REGION: us-west-2
+FACEBOOK_LINK: https://www.facebook.com/kwaleeteam/
+FIREHOSE_STREAM_NAME: DrawIt
+GAME_NAME: Draw It
+IOS_PACKAGE_NAME: com.kwalee.drawit
+IRONSOURCE_APP_KEY_ANDROID: 88991ca5
+IRONSOURCE_APP_KEY_IOS: 8898e31d
+ITUNES_APP_ID: 1451505313
+KANGA_LIVE_URL: https://live-playphoto.servers.kwalee.com:743/
+KANGA_UAT_URL: https://uat-playphoto.servers.kwalee.com:743/
+MAX_AD_UNIT_BANNER_ANDROID: e922f551a5403eac
+MAX_AD_UNIT_BANNER_IOS: 829dc37df216223d
+MAX_AD_UNIT_INTERSTITIAL_ANDROID: 8273340d755a948e
+MAX_AD_UNIT_INTERSTITIAL_ANDROID_2: cf9d3da4f725e461
+MAX_AD_UNIT_INTERSTITIAL_IOS: 68d19b1c0b95a38a
+MAX_AD_UNIT_INTERSTITIAL_IOS_2: b529e802693d9dec
+MAX_AD_UNIT_REWARD_ANDROID: 31c0aa5fdee4f977
+MAX_AD_UNIT_REWARD_IOS: 309ea2d68b85bc81
+MAX_SDK_KEY: 5PnHnIPTLBS791px9T4DzUXLi7-pRnLXB7pzPCQlOusXvfS2DWGA0oVkvUXLGutR_fOPtq9Fh_nbfEeumv2mgT
+MOPUB_AD_UNIT_BANNER_ANDROID: 40f8d64417af4f5db8368c3019ec6759
+MOPUB_AD_UNIT_BANNER_IOS: b835a39a668147599e2f0faed983277c
+MOPUB_AD_UNIT_INTERSTITIAL_ANDROID: a333c622d8a64e87a03f716fac00a828
+MOPUB_AD_UNIT_INTERSTITIAL_IOS: f60bc120f1c1496f89dcf056349d60bd
+MOPUB_AD_UNIT_REWARD_ANDROID: 20c19319434f4f459fd7fc63ceb98445
+MOPUB_AD_UNIT_REWARD_IOS: ad1fce97731143ed890333a7ebbb8d36
+MOPUB_ADCOLONY_APP_ID_ANDROID: app655dc7612dac47c887
+MOPUB_ADCOLONY_APP_ID_IOS: app72c654830dae407795
+MOPUB_ADCOLONY_ZONE_ID_INTERSTITIAL_ANDROID: vz3ce5fb93a20f4c018c
+MOPUB_ADCOLONY_ZONE_ID_INTERSTITIAL_IOS: vz705577a929984dec82
+MOPUB_ADCOLONY_ZONE_ID_REWARD_ANDROID: vz01f4fdcbd7d345cd91
+MOPUB_ADCOLONY_ZONE_ID_REWARD_IOS: vz09936815a8284f88b4
+MOPUB_ADMOB_APP_ID_ANDROID: ca-app-pub-3137017834535338~4622523481
+MOPUB_ADMOB_APP_ID_IOS: ca-app-pub-3137017834535338~5799873789
+MOPUB_APPLOVIN_SDK_KEY_ANDROID: 5PnHnIPTLBS791px9T4DzUXLi7-pRnLXB7pzPCQlOusXvfS2DWGA0oVkvUXLGutR_fOPtq9Fh_nbfEeumv2mgT
+MOPUB_APPLOVIN_SDK_KEY_IOS: 5PnHnIPTLBS791px9T4DzUXLi7-pRnLXB7pzPCQlOusXvfS2DWGA0oVkvUXLGutR_fOPtq9Fh_nbfEeumv2mgT
+MOPUB_CHARTBOOST_APP_ID_ANDROID: 5c6ad0d8ef510e0ac5ed5ce7
+MOPUB_CHARTBOOST_APP_ID_IOS: 5c6ad0274c72140aeb4f0278
+MOPUB_CHARTBOOST_APP_SIGNATURE_ANDROID: 4ff91c3be16e6897f39bc9336402da5b5551d385
+MOPUB_CHARTBOOST_APP_SIGNATURE_IOS: 04277334683c55206681236d633a7191b153b749
+MOPUB_FYBER_APP_ID_ANDROID: 111254
+MOPUB_FYBER_APP_ID_IOS: 111253
+MOPUB_INMOBI_ACCOUNT_ID_ANDROID: 865e6c4ef47d420d9c2707d13defcbb2
+MOPUB_INMOBI_ACCOUNT_ID_IOS: 865e6c4ef47d420d9c2707d13defcbb2
+MOPUB_IRONSOURCE_APP_KEY_ANDROID: 88991ca5
+MOPUB_IRONSOURCE_APP_KEY_IOS: 8898e31d
+MOPUB_MINTEGRAL_APP_ID_ANDROID: (Empty)
+MOPUB_MINTEGRAL_APP_ID_IOS: 143958
+MOPUB_MINTEGRAL_APP_KEY_ANDROID:  
+MOPUB_MINTEGRAL_APP_KEY_IOS: 4cb2060600856eafc6398df63421ec4d
+MOPUB_OGURY_ASSET_KEY_ANDROID: OGY-1288716E6652
+MOPUB_OGURY_ASSET_KEY_IOS: OGY-BA8A82B177AB
+MOPUB_SNAP_APP_ID_ANDROID: f098e9f8-a8e1-4e0d-843b-3a0913dd2908
+MOPUB_SNAP_APP_ID_IOS: f098e9f8-a8e1-4e0d-843b-3a0913dd2908
+MOPUB_TAPJOY_SDK_KEY_ANDROID: ohMlLBPnQ9ui0cbfGKY_EwECBEs8ipeFALgJqrKpdiaTZXqAYchp8ZX9R8es
+MOPUB_TAPJOY_SDK_KEY_IOS: ILFsdU7IQ-q-rtGD7lnsZQEBRRMTRn2XuXDN0OLXm7RRdFN23h249VNV3ZJ2-eFRFaLxs3Xc
+MOPUB_TIKTOK_APP_KEY_ANDROID: (Empty)
+MOPUB_TIKTOK_APP_KEY_IOS: 5024512
+MOPUB_UNITY_GAME_ID_ANDROID: 3049054
+MOPUB_UNITY_GAME_ID_IOS: 3049055
+MOPUB_VERIZON_SITE_ID_ANDROID: (Empty)
+MOPUB_VERIZON_SITE_ID_IOS: (Empty)
+MOPUB_VUNGLE_APP_ID_ANDROID: 5c6ad70c1a8dbd00117772c6
+MOPUB_VUNGLE_APP_ID_IOS: 5c6ad6820e2323001117ad8a
+NATIVE_SHARE_LINK: http://onelink.to/kxv67a
+TENJIN_KEY: WJHWL4N5R3ZUGJENCSDSNYGE7JZ1WE8Y
+TWITTER_LINK: https://twitter.com/kwalee
+
+Project Definitions:
+ADS
+ANALYTICS
+APPSFLYER
+ATTRIBUTION
+AUDIO
+BANK
+CROSS_PROMOTION
+ENABLE_ALL_SYSTEM_LOGS
+FACEBOOK
+FIREBASE
+GAME_CORE
+GAME_SETTINGS
+GDPR
+HAPTICS
+IRONSOURCE
+KANGA
+KANGA_ATHENA
+KWALEE_PLUGINS
+KWALEE_TOOLS
+LOCAL_PUSHES
+LOCALISATION
+MARKET
+RATING
+SERVER_ENVIROMENT_CANDIDATE
+UNITY_STORE
+XPROMO
+
+SKAdNetwork Ids:
+n38lu8286q.skadnetwork
+v9wttpbfk9.skadnetwork
+2u9pt9hc89.skadnetwork
+4468km3ulz.skadnetwork
+4fzdc2evr5.skadnetwork
+7ug5zh24hu.skadnetwork
+8s468mfl3y.skadnetwork
+9rd848q2bz.skadnetwork
+9t245vhmpl.skadnetwork
+av6w8kgt66.skadnetwork
+f38h382jlk.skadnetwork
+hs6bdukanm.skadnetwork
+kbd757ywx3.skadnetwork
+ludvb6z3bs.skadnetwork
+m8dbw4sv7c.skadnetwork
+mlmmfzh3r3.skadnetwork
+prcb7njmu6.skadnetwork
+t38b2kh725.skadnetwork
+tl55sbb4fm.skadnetwork
+wzmmz9fp6w.skadnetwork
+yclnxrl5pm.skadnetwork
+ydx93a7ass.skadnetwork
+44jx6755aq.skadnetwork
+rvh3l7un93.skadnetwork
+4pfyvq9l8r.skadnetwork
+kbmxgpxpgc.skadnetwork
+737z793b9f.skadnetwork
+krvm3zuq6h.skadnetwork
+x8uqf25wch.skadnetwork
+74b6s63p6l.skadnetwork
+bxvub5ada5.skadnetwork
+b9bk5wbcq9.skadnetwork
+zq492l623r.skadnetwork
+r45fhb6rf7.skadnetwork
+a7xqa6mtl2.skadnetwork
+pwdxu55a5a.skadnetwork
+6964rsfnh4.skadnetwork
+84993kbrcf.skadnetwork
+c6k4g5qg8m.skadnetwork
+cj5566h2ga.skadnetwork
+glqzh8vgby.skadnetwork
+w9q455wk68.skadnetwork
+wg4vff78zm.skadnetwork
+s39g8k73mm.skadnetwork
+lr83yxwka7.skadnetwork
+9nlqeag3gk.skadnetwork
+mls7yz5dvl.skadnetwork
+p78axxw29g.skadnetwork
+v72qych5uu.skadnetwork
+6xzpu9s2p8.skadnetwork
+g28c52eehv.skadnetwork
+523jb4fst2.skadnetwork
+ggvn48r87g.skadnetwork
+3sh42y64q3.skadnetwork
+24t9a8vw3c.skadnetwork
+ejvt5qm6ak.skadnetwork
+cstr6suwn9.skadnetwork
+5lm9lj6jb7.skadnetwork
+zmvfpc5aq8.skadnetwork
+7rz58n8ntl.skadnetwork
+feyaarzu9v.skadnetwork
+n9x2a789qt.skadnetwork
+5a6flpkh64.skadnetwork
+424m5254lk.skadnetwork
+5l3tpt7t6e.skadnetwork
+uw77j35x4d.skadnetwork
+gta9lk7p23.skadnetwork
+cg4yq2srnc.skadnetwork
+22mmun2rn5.skadnetwork
+su67r6k2v3.skadnetwork
+4w7y6s5ca2.skadnetwork
+klf5c3l5u5.skadnetwork
+dzg6xy7pwj.skadnetwork
+y45688jllp.skadnetwork
+hdw39hrw9y.skadnetwork
+ppxm28t8ap.skadnetwork
+4dzt52r2t5.skadnetwork
+mtkv5xtk9e.skadnetwork
+5tjdwbrq8w.skadnetwork
+3rd42ekr43.skadnetwork
+x44k69ngh6.skadnetwork
+9b89h5y424.skadnetwork
+294l99pt4k.skadnetwork
+n6fk4nfna4.skadnetwork
+qqp299437r.skadnetwork
+s69wq72ugq.skadnetwork
+2fnua5tdw4.skadnetwork
+54nzkqm89y.skadnetwork
+3qcr597p9d.skadnetwork
+g2y4y55b64.skadnetwork
+6p4ks3rnbw.skadnetwork
+79pbpufp6p.skadnetwork
+pwa73g5rt2.skadnetwork
+3qy4746246.skadnetwork
+v4nxqhlyqp.skadnetwork
+578prtvx9j.skadnetwork
+e5fvkxwrpn.skadnetwork
+8c4e2ghe7u.skadnetwork
+mp6xlyr22a.skadnetwork
+238da6jt44.skadnetwork
+v79kvwwj4g.skadnetwork
+44n7hlldy6.skadnetwork
+bvpn9ufa9b.skadnetwork
+f73kdq92p3.skadnetwork
+f7s53z58qe.skadnetwork
+32z4fx6l9h.skadnetwork
+488r3q3dtq.skadnetwork
+cp8zw746q7.skadnetwork
+a2p9lx4jpn.skadnetwork
+c3frkrj4fj.skadnetwork
+7fmhfwg9en.skadnetwork
+7953jerfzd.skadnetwork
+k674qkevps.skadnetwork
+xy9t38ct57.skadnetwork
+qu637u8glc.skadnetwork
+9yg77x724h.skadnetwork
+n66cz3y3bx.skadnetwork
+w9q455qk68.skadnetwork
+rx5hdcabgc.skadnetwork
+275upjj5gd.skadnetwork
+6g9af3uyq4.skadnetwork
+u679fj5vs4.skadnetwork
+ecpz2srf59.skadnetwork
+r26jy69rpl.skadnetwork
+252b5q8x7y.skadnetwork
+9g2aggbj52.skadnetwork
+wzmmZ9fp6w.skadnetwork
+52fl2v3hgk.skadnetwork
+97r2b46745.skadnetwork
+gvmwg8q7h5.skadnetwork
+nzq8sh4pbs.skadnetwork
+pu4na253f3.skadnetwork
+yrqqpx2mcb.skadnetwork
+z4gj7hsk7h.skadnetwork
+x8jxxk4ff5.skadnetwork
+x2jnk7ly8j.skadnetwork
+nu4557a4je.skadnetwork
+24zw6aqk47.skadnetwork
+cs644xg564.skadnetwork
+9vvzujtq5s.skadnetwork
+a8cz6cu7e5.skadnetwork
+3l6bd9hu43.skadnetwork
+6v7lgmsu45.skadnetwork
+89z7zv988g.skadnetwork
+8m87ys6875.skadnetwork
+hb56zgv37p.skadnetwork
+m297p6643m.skadnetwork
+m5mvw97r93.skadnetwork
+vcra2ehyfk.skadnetwork
+y5ghdn5j9k.skadnetwork
+47vhws6wlr.skadnetwork
+6yxyv74ff7.skadnetwork
+mqn7fxpca7.skadnetwork
+dbu4b84rxf.skadnetwork
+V72QYCH5UU.skadnetwork
+
+
